@@ -14,7 +14,7 @@
     <img  width="90" height="90" src="https://img.icons8.com/nolan/512/filled-message.png" alt="NguyenHoangHung-email" />
   </a>
 
-  ### Tech Stack
+  ### Programming Languages And Frameworks
 ![Kotlin](https://img.shields.io/badge/Kotlin-a503fc?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-50f270?logo=android&logoColor=black&style=for-the-badge)
